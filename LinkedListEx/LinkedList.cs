@@ -4,8 +4,8 @@ using LinkedListEx;
 
 public class LinkedList
 {
-    public Element FirstElement { get; set; }
-    public Element LastElement { get; set; }
+    private Element FirstElement;
+    private Element LastElement;
     
     public LinkedList()
     {
@@ -33,8 +33,9 @@ public class LinkedList
     {
         Element newElement = new Element(obj);
         
-        if (LastElement == null)
+        if (FirstElement == null)
         {
+            FirstElement = newElement;
             LastElement = newElement;
         }
         else

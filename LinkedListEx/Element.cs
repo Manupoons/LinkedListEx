@@ -4,8 +4,8 @@ namespace LinkedListEx;
 
 public class Element
 {
-    public Object Obj { get; set; }
-    public Element Next { get; set; }
+    public Object Obj;
+    public Element Next;
     
     public Element(Object newObject)
     {
