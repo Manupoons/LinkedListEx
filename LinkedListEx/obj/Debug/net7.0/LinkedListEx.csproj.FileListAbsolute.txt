@@ -1,0 +1,15 @@
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\bin\Debug\net7.0\LinkedListEx.exe
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\bin\Debug\net7.0\LinkedListEx.deps.json
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\bin\Debug\net7.0\LinkedListEx.runtimeconfig.json
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\bin\Debug\net7.0\LinkedListEx.dll
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\bin\Debug\net7.0\LinkedListEx.pdb
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.csproj.AssemblyReference.cache
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.AssemblyInfoInputs.cache
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.AssemblyInfo.cs
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.csproj.CoreCompileInputs.cache
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.dll
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\refint\LinkedListEx.dll
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.pdb
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\LinkedListEx.genruntimeconfig.cache
+C:\Users\manum\RiderProjects\LinkedList\LinkedListEx\obj\Debug\net7.0\ref\LinkedListEx.dll
